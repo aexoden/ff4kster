@@ -1,4 +1,3 @@
-#include once "boolean.bas"
 #include once "functions/pointerstringconversion.bas"
 
 type List

@@ -1,5 +1,3 @@
-#include once "boolean.bas"
-
 type Fraction
 
  private:
